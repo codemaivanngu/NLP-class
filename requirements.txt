@@ -1,2 +1,4 @@
+kaggle
+numpy
+pandas
 nltk
-tqdm
